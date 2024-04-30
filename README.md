@@ -1,4 +1,4 @@
-# **Retail Data Mart ETL Usiing IBM DataStage**
+# **Retail Data Mart ETL Using IBM DataStage**
 ## **Introduction**
 
 This document outlines the ETL (Extract, Transform, Load) solution implemented using IBM DataStage to fulfill the business requirements specified in the project.
