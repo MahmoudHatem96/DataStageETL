@@ -21,6 +21,8 @@ The ETL solution is designed to efficiently extract data from the source, transf
     - Determining the maximum profit made by each customer type.
     - Calculating bonuses for customers based on profitability.
 3. **Load**: Transformed data is loaded into the target data mart, integrating both retail and activation sales data.
+![Retail_Data_Mart](https://github.com/MahmoudHatem96/RetailDataMartETL-UsingDataStage/assets/155321343/03043bf6-90c5-4921-bb54-9323666f7cbc)
+![Activation_Sales_Data_Mart](https://github.com/MahmoudHatem96/RetailDataMartETL-UsingDataStage/assets/155321343/8058f874-bd6e-4a5a-98ed-ace4644c0327)
 
 ## **Insights and Process Key Values**
 
